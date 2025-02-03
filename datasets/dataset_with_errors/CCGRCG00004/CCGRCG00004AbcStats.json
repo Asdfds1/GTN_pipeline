@@ -1,0 +1,24 @@
+{
+	"abcStatsBalance": {
+		"area": 418351.79,
+		"delay": 34329.32,
+		"edge": 192502,
+		"fileRead": true,
+		"inputs": 50,
+		"lat": 0,
+		"lev": 405,
+		"nd": 75419,
+		"outputs": 54
+	},
+	"abcStatsResyn2": {
+		"area": 416028.57,
+		"delay": 34879.95,
+		"edge": 188986,
+		"fileRead": true,
+		"inputs": 50,
+		"lat": 0,
+		"lev": 409,
+		"nd": 74379,
+		"outputs": 54
+	}
+}

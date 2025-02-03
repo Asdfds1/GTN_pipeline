@@ -1,0 +1,28 @@
+2025-02-02 16:13:57: Training started at: 2025-02-02 16:13:57
+2025-02-02 16:13:57: Config saved
+2025-02-02 16:13:57: Epoch 0 started
+2025-02-02 16:14:24: Epoch: 0, Loss: 8.0739, Metric: 3.0059, Train Time: 26.99 seconds
+2025-02-02 16:14:24: Checkpoint saved, new best model
+2025-02-02 16:14:24: Epoch 1 started
+2025-02-02 16:14:48: Epoch: 1, Loss: 2.1378, Metric: 1.0482, Train Time: 24.71 seconds
+2025-02-02 16:14:48: Checkpoint saved, new best model
+2025-02-02 16:14:48: Epoch 2 started
+2025-02-02 16:15:13: Epoch: 2, Loss: 1.9614, Metric: 1.9702, Train Time: 24.93 seconds
+2025-02-02 16:15:13: Epoch 3 started
+2025-02-02 16:15:38: Epoch: 3, Loss: 1.9475, Metric: 1.9406, Train Time: 24.69 seconds
+2025-02-02 16:15:38: Epoch 4 started
+2025-02-02 16:16:03: Epoch: 4, Loss: 2.4017, Metric: 1.6174, Train Time: 24.85 seconds
+2025-02-02 16:16:03: Epoch 5 started
+2025-02-02 16:16:28: Epoch: 5, Loss: 2.3652, Metric: 7.4193, Train Time: 24.89 seconds
+2025-02-02 16:16:28: Epoch 6 started
+2025-02-02 16:16:53: Epoch: 6, Loss: 2.1417, Metric: 0.8759, Train Time: 24.85 seconds
+2025-02-02 16:16:53: Checkpoint saved, new best model
+2025-02-02 16:16:53: Epoch 7 started
+2025-02-02 16:17:17: Epoch: 7, Loss: 2.1997, Metric: 2.0955, Train Time: 24.78 seconds
+2025-02-02 16:17:17: Epoch 8 started
+2025-02-02 16:17:42: Epoch: 8, Loss: 2.2555, Metric: 0.8359, Train Time: 24.85 seconds
+2025-02-02 16:17:42: Checkpoint saved, new best model
+2025-02-02 16:17:42: Epoch 9 started
+2025-02-02 16:18:07: Epoch: 9, Loss: 2.0334, Metric: 1.5365, Train Time: 25.19 seconds
+2025-02-02 16:18:07: Training finished. Best metric 0.8359 at epoch 8
+2025-02-02 16:18:07: Total training time: 250.76 seconds

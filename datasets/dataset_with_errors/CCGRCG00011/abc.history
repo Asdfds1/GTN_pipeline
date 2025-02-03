@@ -1,0 +1,27 @@
+source -s abc.rc
+read_verilog CCGRCG00011.v
+read /mnt/c/Github/CircuitGen/CircuitGen/tech_libs/sky130.lib
+read_lib /mnt/c/Github/CircuitGen/CircuitGen/tech_libs/sky130.lib
+balance
+write_verilog CCGRCG00011.aig
+refactor -z
+balance -x
+rewrite -z
+write_verilog CCGRCG00011_BALANCED.aig
+write_verilog CCGRCG00011_BALANCED.v
+print_stats
+source -s abc.rc
+read_verilog CCGRCG00011.v
+read /mnt/c/Github/CircuitGen/CircuitGen/tech_libs/sky130.lib
+read_lib /mnt/c/Github/CircuitGen/CircuitGen/tech_libs/sky130.lib
+refactor
+rewrite
+balance
+refactor -z
+rewrite -z
+write_verilog CCGRCG00011_RESYN2.aig
+write_verilog CCGRCG00011_RESYN2.v
+print_stats
+source -s abc.rc
+read_verilog CCGRCG00011.v
+write_bench CCGRCG00011.bench

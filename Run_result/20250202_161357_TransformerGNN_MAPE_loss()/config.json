@@ -1,0 +1,10 @@
+{
+    "model_params": {
+        "in_channels": 10,
+        "hidden_channels": 32,
+        "num_heads": 4
+    },
+    "optimizer_params": {
+        "learning_rate": 0.01
+    }
+}

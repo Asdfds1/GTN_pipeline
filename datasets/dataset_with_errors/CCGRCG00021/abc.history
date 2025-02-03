@@ -1,0 +1,10 @@
+write_verilog CCGRCG00021.aig
+refactor -z
+read /mnt/c/Github/CircuitGen/CircuitGen/tech_libs/sky130.lib
+read_lib /mnt/c/Github/CircuitGen/CircuitGen/tech_libs/sky130.lib
+balance
+rewrite
+refactor
+source -s abc.rc
+read_verilog CCGRCG00021.v
+write_bench CCGRCG00021.bench

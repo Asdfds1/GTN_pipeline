@@ -1,0 +1,10 @@
+{
+	"abcStatsBalance": {
+		"error": "Something went wrong during files parsing in AbcUtils;",
+		"fileRead": "true"
+	},
+	"abcStatsResyn2": {
+		"error": "Something went wrong during files parsing in AbcUtils;",
+		"fileRead": "true"
+	}
+}

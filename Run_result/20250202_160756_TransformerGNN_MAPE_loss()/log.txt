@@ -1,0 +1,6 @@
+2025-02-02 16:07:56: Training started at: 2025-02-02 16:07:56
+2025-02-02 16:07:56: Config saved
+2025-02-02 16:07:56: Epoch 0 started
+2025-02-02 16:07:57: Epoch: 0, Loss: 99.7941, Metric: 98.8552, Train Time: 0.74 seconds
+2025-02-02 16:07:57: Checkpoint saved, new best model
+2025-02-02 16:07:57: Epoch 1 started
